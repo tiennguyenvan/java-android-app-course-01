@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Concert Tickets</string>
+    <string name="txtTitle">Ticket Vault</string>
+    <string name="txtTicketNo">Number of Tickets</string>
+    <string name="txtCalBtn">CALCULATE THE COST</string>
+
+    <string-array name="txtGroups">
+        <item>Life Revealed</item>
+        <item>Spatial Sense</item>
+        <item>Zig Zag</item>
+    </string-array>
+    <string name="txtInputError">Wrong Input</string>
+</resources>
